@@ -43,7 +43,7 @@
 MCU = atmega328p
 
 # Common directory
-COMMON_DIR = ../common
+COMMON_DIR = common
 
 # Processor frequency.
 #     This will define a symbol, F_CPU, in all source code files equal to the 
